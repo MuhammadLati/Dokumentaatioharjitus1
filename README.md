@@ -1,0 +1,2 @@
+# Dokumentaatioharjitus1
+Ohjeita Järjestelmädokumantaation laatimiseen
